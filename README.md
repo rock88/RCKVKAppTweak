@@ -8,8 +8,8 @@ Build instruction
 
 ```
 cd your/working/dir
-cd RCKVKAppTweak
 git clone https://github.com/rock88/RCKVKAppTweak.git
+cd RCKVKAppTweak
 git submodule update --init --recursive
 make
 ```
